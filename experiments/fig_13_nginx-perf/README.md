@@ -5,6 +5,5 @@
      1 - original experiment using Unikraft 0.5.0 Tethys - using `hlefeuvre/unikraft-eurosys21`
      2 - reduced experiment using Unikraft 0.5.0 Tethys - using `unikraft/custom-nginx-builder`
      3 - new experiment using Unikraft 0.19.0 Pan
- * `./benchmark.sh` runs the experiment and takes about 40-45 minutes on
-   average; and,
+ * `./benchmark.sh` runs the experiment; and,
  * `./plot.py` is used to generate the figure.
